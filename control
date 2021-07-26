@@ -1,0 +1,9 @@
+Package: kr.xsf1re.tabcount
+Name: TabCount
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Show Tab Count on Safari! (iOS 13 ~ 14)
+Maintainer: XsF1re
+Author: XsF1re
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
